@@ -1,0 +1,16 @@
+﻿Build started 3/22/2016 11:12:39 AM.
+     1>Project "D:\VisualStudio2013\Projects\Hangman\Hangman_001\Hangman_001\Hangman_001.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Hangman_001.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Hangman_001.cpp
+         Hangman_001.cpp
+     1>d:\visualstudio2013\projects\hangman\hangman_001\hangman_001\hangman_001.cpp(55): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VisualStudio2013\Projects\Hangman\Hangman_001\Debug\Hangman_001.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:InputFile.txt /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VisualStudio2013\Projects\Hangman\Hangman_001\Debug\Hangman_001.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VisualStudio2013\Projects\Hangman\Hangman_001\Debug\Hangman_001.lib" /MACHINE:X86 Debug\Resource.res
+         Debug\Hangman_001.obj
+         Debug\stdafx.obj
+         Hangman_001.vcxproj -> D:\VisualStudio2013\Projects\Hangman\Hangman_001\Debug\Hangman_001.exe
+     1>Done Building Project "D:\VisualStudio2013\Projects\Hangman\Hangman_001\Hangman_001\Hangman_001.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00
